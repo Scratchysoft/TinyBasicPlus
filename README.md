@@ -24,5 +24,4 @@ Sanguino:     2, 10, 11
 
 https://github.com/smaffer/vgax
 
-The project guide for the platforms listed above 
-accept for the leonardo specific libraries.
+https://www.instructables.com/id/Arduino-Basic-PC-With-VGA-Output/ The project guide for the platforms listed above accept for the leonardo specific libraries.
