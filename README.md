@@ -9,6 +9,8 @@ the other common arduino platforms.
 
 Links to the needed libraries
 ==============
+https://github.com/smaffer/vgax The vga display library
+
 https://github.com/yosemitebandit/PS2Keyboard for the arduino leonardo
 
 https://github.com/PaulStoffregen/PS2Keyboard for the platforms listed below                                                               
@@ -22,6 +24,5 @@ Teensy++ 2.0: 0, 1, 2, 3, 18, 19, 36, 37
 Teensy++ 1.0: 0, 1, 2, 3, 18, 19, 36, 37                                                                                                  
 Sanguino:     2, 10, 11                                                                                                                   
 
-https://github.com/smaffer/vgax
-
-https://www.instructables.com/id/Arduino-Basic-PC-With-VGA-Output/ The project guide for the platforms listed above accept for the leonardo specific libraries.
+https://www.instructables.com/id/Arduino-Basic-PC-With-VGA-Output/ 
+The project guide for the platforms listed above accept for the leonardo specific libraries which you use instead of the files on the project guide instructables page
