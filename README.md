@@ -11,7 +11,7 @@ Links to the needed libraries
 ==============
 https://github.com/yosemitebandit/PS2Keyboard for the arduino leonardo
 
-https://github.com/PaulStoffregen/PS2Keyboard for the platforms listed below
+https://github.com/PaulStoffregen/PS2Keyboard for the platforms listed below                                                               
 Arduino Uno:  2, 3                                                                                                                         
 Arduino Due:  All pins, except 13 (LED)                                                                                                   
 Arduino Mega: 2, 3, 18, 19, 20, 21                                                                                                        
